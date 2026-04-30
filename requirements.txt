@@ -3,4 +3,4 @@ pytgcalls
 yt-dlp
 tgcrypto
 flask
-pip install --no-cache-dir
+pip install --no-cache-dir --upgrade pip
